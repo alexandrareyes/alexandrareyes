@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @alexandrareyes
-- 👀 I’m interested in front-end dev, SWE, and anything NBA-related
-- 🌱 I’m currently learning data structures & algorithms in Java 
 - 📫 How to reach me: allyxreyes12@gmail.com
 
 <!---
